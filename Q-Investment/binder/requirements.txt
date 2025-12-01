@@ -1,5 +1,0 @@
-matplotlib
-numpy
-scipy
-pandas
-dolo==0.4.9.12
